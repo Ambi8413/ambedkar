@@ -1,2 +1,2 @@
 # ambedkar
-https://github.com/Zucccs/PhoneSploit
+https://github.com/AmbiHack/PhoneSploit
